@@ -26,23 +26,14 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://www.instagram.com/pcharles_01" alt="Follow Me on Instagram"> 
-    <img src="https://img.shields.io/badge/instagram-%23D14831.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/instagram-%23D14831.svg?&style=for-the-badge&logo=instagram&logoColor=white" />    
 </a>
-<a href="https:t.me/Pcharlese" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https:t.me/Pcharlese" alt="Follow Me on Instagram"> 
-    <img src="https://img.shields.io/badge/instagram-%23D14831.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 
 </a>&nbsp;
 <a href="mailto: opeyemicharlese@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-
-
- <a href="https:https://www.linkedin.com/in/emmanuelpcharles" alt="messsage on linkedln"> 
+<a href="https://www.linkedin.com/in/emmanuelpcharles" alt="messsage on linkedln"> 
     <img src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>                                                                                                                    
 
