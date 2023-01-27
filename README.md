@@ -61,8 +61,8 @@ I'm a software developer at Night and Product Designer during the Day✨
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pcharlesme&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcharlesme&hide=TeX&layout=compact)
-![build](https://github.com/pcharlesme/pcharlesme/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/pcharlesme/pcharlesme)
+![build](https://github.com/pcharlesme/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/pcharlesme)
 ![pv](https://pageview.vercel.app/?github_user=pcharlesme)
 
 ## 💻 Check Out My Repos ⬇️ 
