@@ -1,18 +1,16 @@
-- 👋 Hi, I’m @Pcharlesme
-- 👀 I’m interested in Gig, Job , Fulltime role and Freelance 
 
 <!---
 Pcharlesme/Pcharlesme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=Pcharlesme)
-
+- 👋 Hi, I’m @Pcharlesme
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer at Night. Product Designer during the Day✨ I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects ✨ I Design Build and Deploy.
+I'm a software developer at Night. Product Designer during the Day✨ I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects ✨ I Design Build and Deploy. -👀 I’m interested in Gig, Job , Fulltime role and Freelance 
 
-
+# 📫 &nbsp;Reach me on
 <a href="https://api.whatsapp.com/send?phone=2348108244286&text=Hello%20Pcharles,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
@@ -45,6 +43,7 @@ I'm a software developer at Night. Product Designer during the Day✨ I enjoy co
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Behance](https://img.shields.io/badge/-behance-E34A86?style=flat-square&logo=behance)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -56,5 +55,5 @@ I'm a software developer at Night. Product Designer during the Day✨ I enjoy co
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pcharlesme&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcharlesme&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pcharlesme.pcharlesme)
+## 💻 Check Out My Repos ⬇️ 
 
