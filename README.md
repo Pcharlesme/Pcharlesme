@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
     
 </a>
 
-<a href="https://https://skype.com/live:.cid.c6159aa18ce5059f" alt="Follow Me on Twitter"> 
+<a href="https://https://skype.com/live:.cid." alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>
 </a>&nbsp;
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https:t.me/Pcharlese alt="messsage on Telegram"> 
     <img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>
- <a href="https:https://www.linkedin.com/in/emmanuelpcharles/="messsage on linkedln"> 
+ <a href="https:https://www.linkedin.com/in/emmanuelpcharles?="messsage on linkedln"> 
     <img src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
 </a>                                                                                                                    
 
@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ichie2&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcharlese&show_icons=true)
