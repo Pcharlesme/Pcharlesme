@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino.
+I'm a software developer at Night. Product Designer during the Day✨ I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects ✨ I Design Build and Deploy.
 
 
 <a href="https://api.whatsapp.com/send?phone=2348108244286&text=Hello%20Pcharles,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
@@ -40,6 +40,21 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 ## 🚀 Skills
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/kotlin-%FA26A0.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%231DA1F2.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-%231DA1F2.svg?&style=for-the-badge&logo=firebase&logoColor=yellow" />  <img src="https://img.shields.io/badge/figma-%23D14836.svg?&style=for-the-badge&logo=figma&logoColor=white" /> 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 <br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pcharlesme&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcharlesme&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pcharlesme.pcharlesme)
 
