@@ -19,8 +19,8 @@ I'm a software developer at Night. Product Designer during the Day✨ I enjoy co
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/emmanuelpcharles/" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/Link-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/emmanuelpcharles/" alt="Follow Me on linkedin"> 
+    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/pcharles_01" alt="Follow Me on Instagram"> 
@@ -28,7 +28,7 @@ I'm a software developer at Night. Product Designer during the Day✨ I enjoy co
 </a>
 
 
-<a href="https://www.instagram.com/pcharles_01" alt="Follow Me on Instagram"> 
+<a href="https://dribbble.com/Pcharles" alt="Follow Me on Instagram"> 
     <img src="https://img.shields.io/badge/dribble-%23D14831.svg?&style=for-the-badge&logo=dribble&logoColor=white" />    
 </a>
 
@@ -36,8 +36,8 @@ I'm a software developer at Night. Product Designer during the Day✨ I enjoy co
 <a href="mailto: opeyemicharlese@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/emmanuelpcharles" alt="messsage on linkedln"> 
-    <img src="https://img.shields.io/badge/linkedln-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=blue" />
+<a href="https://www.behance.net/opeyemiemmanuel" alt="messsage on Behance"> 
+    <img src="https://img.shields.io/badge/behance-%231DA1F2.svg?&style=for-the-badge&logo=behance&logoColor=white" />
 </a>                                                                                                                    
 
 ## 🚀 Skills
