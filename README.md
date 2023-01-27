@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Pcharlesme
-- 👀 I’m interested in Gig, Job , Fulltime role and Project
-- 🌱 I’m currently learning Flutter, SwiftUI, Java. React..
-- 💞️ I’m looking to collaborate on Mobile App Development,Web3...
-- 📫 How to reach me opeyemicharlese@gmail.com...
+- 👀 I’m interested in Gig, Job , Fulltime role and Freelance 
 
 <!---
 Pcharlesme/Pcharlesme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +40,3 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcharlese&show_icons=true)
