@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://www.linkedin.com/in/emmanuelpcharles/" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Link-%231DA1F2.svg?&style=for-the-badge&logo=Limked&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/pcharles_01" alt="Follow Me on Instagram"> 
