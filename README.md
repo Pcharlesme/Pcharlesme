@@ -3,14 +3,14 @@
 Pcharlesme/Pcharlesme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://komarev.com/ghpvc/?username=Pcharlesme)
+
 - 👋 Hi, I’m @Pcharlesme
 
 # 👋 &nbsp;Hi there
 
 I'm a software developer at Night✨ 
 ✨ I Design Build and Deploy. 
--👀 I’m interested in Gig, Job , Fulltime role and Freelance 
+-👀 I’m interested in Gig, Job, Fulltime role and Freelance 
 
 # 📫 &nbsp;Reach me on
 <a href="https://api.whatsapp.com/send?phone=2348108244286&text=Hello%20Pcharles,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
