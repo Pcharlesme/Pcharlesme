@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer at Night✨ 
-✨ I Design Build and Deploy. 
+I’m @Pcharlesme, a software developer at Night, and Blockchain Dev during the day ✨ 
+✨ I Design, Build and Deploy. 
 -👀 I’m interested in Gig, Job, Fulltime role and Freelance 
 
 # 📫 &nbsp;Reach me on
