@@ -37,7 +37,7 @@ Engineering: Responsive UI, reusable components, API integration, authentication
 </a>
 
 
-<a href="https://dribbble.com/Pcharles" alt="Follow Me on Instagram"> 
+<a href="https://dribble.com/Pcharles" alt="Follow Me on Instagram"> 
     <img src="https://img.shields.io/badge/dribble-%23D14831.svg?&style=for-the-badge&logo=dribble&logoColor=white" />    
 </a>
 
@@ -67,7 +67,6 @@ Engineering: Responsive UI, reusable components, API integration, authentication
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pcharlesme&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcharlesme&hide=TeX&layout=compact)
 
 
 ## 💻 Check Out My Repos ⬇️ 
