@@ -4,13 +4,23 @@ Pcharlesme/Pcharlesme is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @Pcharlesme
+# 👋 &nbsp;Hi there I’m @Pcharlesme
 
-# 👋 &nbsp;Hi there
+I'm a software engineer focused on building reliable, user-centred web and mobile applications. I work across frontend, mobile and backend development, turning product requirements into scalable, maintainable solutions.
 
-I’m @Pcharlesme, a software developer at Night, and Blockchain Dev during the day ✨ 
-✨ I Design, Build and Deploy. 
--👀 I’m interested in Gig, Job, Fulltime role and Freelance 
+Tech Stack
+
+Frontend: React, Next.js, TypeScript, JavaScript
+
+Mobile: React Native, Expo
+
+Backend: Node.js, Express.js, REST APIs
+
+Databases: MongoDB, PostgreSQL, Supabase
+
+Cloud & Deployment: AWS, Vercel
+
+Engineering: Responsive UI, reusable components, API integration, authentication, testing and performance optimisation
 
 # 📫 &nbsp;Reach me on
  
